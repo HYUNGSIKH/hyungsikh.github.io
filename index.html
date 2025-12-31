@@ -1,4 +1,43 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+title: "환영합니다!"
+header:
+  overlay_image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+  overlay_filter: 0.5 # 이미지 어둡게 처리 (0~1 사이값)
+  content: >
+    ## 나만의 포트폴리오
+    
+    GitHub Pages와 Minimal Mistakes 테마로 만든 사이트입니다.
+  actions:
+    - label: "GitHub 구경가기"
+      url: "https://github.com/본인아이디"
+excerpt: "자유롭게 커스터마이징 가능한 Splash 레이아웃입니다."
+
+intro:
+  - excerpt: '이곳은 **Markdown**이 지원되는 영역입니다. 본인을 소개하는 짧은 글을 적어보세요.'
+
+feature_row_projects:
+  - image_path: https://via.placeholder.com/500x300
+    title: "프로젝트 A"
+    excerpt: "React와 Node.js로 만든 웹 애플리케이션입니다."
+    url: "#"
+    btn_label: "상세 보기"
+    btn_class: "btn--primary"
+  - image_path: https://via.placeholder.com/500x300
+    title: "프로젝트 B"
+    excerpt: "Python 데이터 분석 프로젝트입니다."
+    url: "#"
+    btn_label: "상세 보기"
+    btn_class: "btn--primary"
+  - image_path: https://via.placeholder.com/500x300
+    title: "블로그 글"
+    excerpt: "최근 공부한 내용을 정리한 기술 블로그입니다."
+    url: "#"
+    btn_label: "읽으러 가기"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row_projects" %}
