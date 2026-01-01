@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Hwang, Hyung-Sik"
+title                    : "Hyung-Sik"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Hwang"
 name                     : "Hyungsik"
 description              : "황형식"
 url                      : "https://hyungsikh.github.io"
