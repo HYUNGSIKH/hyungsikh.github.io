@@ -4,9 +4,11 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
     url: https://hyungsikh.github.io
-  - title: "About"
+  - title: "About Me"
     url: https://hyungsikh.github.io/second/
-  - title: "Model"
+  - title: "ADCIRC"
+    url: https://hyungsikh.github.io/second/
+  - title: "OpenFOAM"
     url: https://hyungsikh.github.io/second/
   # - title: "Sample Collections"
   #   url: /collection-archive/
