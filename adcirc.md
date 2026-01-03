@@ -1,6 +1,6 @@
 ---
 title: "ADCIRC 자료실"
-permalink: /first/
+permalink: /adcirc/
 layout: single
 author_profile: true
 ---
