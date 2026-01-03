@@ -1,11 +1,11 @@
 ---
-title: "ADCIRC 자료실"
+title: "ADvanced CIRCulation"
 permalink: /adcirc/
 layout: single
 author_profile: true
 ---
 
-ADCIRC 관련하여 작성된 포스트 목록입니다.
+ADCIRC(ADvanced CIRCulation) 관련하여 작성된 목록입니다.
 
 ## 글 목록
 
